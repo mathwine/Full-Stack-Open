@@ -1,0 +1,6 @@
+title New note
+
+User->Browser: Writes something in text field, Clicks "Submit" button
+
+Browser->Browser: Browser "posts" text to https://fullstack-exampleapp.herokuapp.com/new_note
+
